@@ -1,5 +1,5 @@
 require_relative "User"
 
-class Student
+class Student < User
 
 end
