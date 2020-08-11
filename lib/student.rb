@@ -5,8 +5,8 @@ def initialize
 
 end
 
-def learn
-
+def learn(knowledge)
+@knowledge << knowledge
 end
 
 def knowledge
