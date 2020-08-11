@@ -1,4 +1,4 @@
-require_relative "User"
+require_relative User
 
 class Student < User
 
