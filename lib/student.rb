@@ -10,7 +10,7 @@ def learn(knowledge)
 end
 
 def knowledge
-
+@knowledge
 end
 
 end
